@@ -1,2 +1,2 @@
-Date        Notebook name
-04/24/25    Web scraping (TSLA and GME stock data)
+Date          Notebook name
+2025/04/24    Web scraping (TSLA and GME stock data)
